@@ -1,11 +1,13 @@
 # project4
 
 # Link to Wireframes
-https://imgur.com/UZUWmw4
+https://imgur.com/tVfZGot
 
-https://imgur.com/kUeTVDy
+https://imgur.com/JrJv6N7
 
-https://imgur.com/KKKDLPr
+https://imgur.com/vxB8jiA
+
+https://imgur.com/gMyRLMR
 
 # Link to ERD
-https://imgur.com/VboDE8m
+https://imgur.com/hI8wnRQ
